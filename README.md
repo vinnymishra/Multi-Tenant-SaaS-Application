@@ -2,7 +2,7 @@
 
 A full-stack retail management and point-of-sale application built with **Spring Boot, Java, React, and MySQL**. The project is organized around store and branch operations, with role-oriented interfaces for platform administrators, store teams, branch teams, and cashiers.
 
-> **Project status:** This README documents the source code provided in the repository archive. It is not a claim that the application has been deployed, independently security-audited, or verified end-to-end. Review the setup notes and known limitations before using it outside a local development environment.
+
 
 ## Contents
 
